@@ -11,17 +11,17 @@ Referred to https://webdew.tistory.com/17 for
 ## Examples
 
     1.  Enter any words:
-        Gwanghwamun 가자!
+        Gwanghwamun 가자
 
         Result:
-        Gwanghwamun 가자! --> 광화문 가자!
+        Gwanghwamun 가자 --> 광화문 가자
 
 
     2.  Enter any words:
-        Seoul Saram Da Moyeo ~
+        Seoul Saram Da Moyeo
 
         Result:
-        Seoul Saram Da Moyeo ~ --> 서울 사람 다 모여 ~
+        Seoul Saram Da Moyeo --> 서울 사람 다 모여
 
 
 ## Author
