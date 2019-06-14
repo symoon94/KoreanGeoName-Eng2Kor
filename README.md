@@ -1,6 +1,8 @@
 # KoreanGeoName-Eng2Kor
 
-Korean Geographical Names in English to Korean
+Korean Geographical Names in English to Korean.
+Referred to https://webdew.tistory.com/17 for
+[dictionary.csv](https://github.com/symoon94/KoreanGeoName-Eng2Kor/blob/master/dictionary.csv).
 
 ## Usage
 
@@ -20,3 +22,8 @@ Korean Geographical Names in English to Korean
 
         Result:
         Seoul Saram Da Moyeo ~ --> 서울 사람 다 모여 ~
+
+
+## Author
+
+Sooyoung Moon / [@symoon94](https://www.facebook.com/msy0128)
