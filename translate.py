@@ -66,6 +66,7 @@ def main():
     dic = make_dic()
     word = input("Enter any words: \n")
     result = match(word, dic)
+    print("\nResult: ")
     if result:
         print(f"{word} --> {result}")
     else:
