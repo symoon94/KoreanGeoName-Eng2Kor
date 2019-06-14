@@ -8,15 +8,14 @@ Korean Geographical Names in English to Korean
 
 ## Examples
 
-    1.
-        Enter any words:
+    1.  Enter any words:
         Gwanghwamun 가자!
 
         Result:
         Gwanghwamun 가자! --> 광화문 가자!
 
-    2.
-        Enter any words:
+
+    2.  Enter any words:
         Seoul Saram Da Moyeo ~
 
         Result:
