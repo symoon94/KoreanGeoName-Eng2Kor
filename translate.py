@@ -48,12 +48,19 @@ def match(word, dic):
                     candidate_en.append(k)
                     candidate_ko.append(v)
             result = combination(word, candidate_en, candidate_ko)
-            korean.append(result)
+            if result:
+                korean.append(result)
+            else:
+                korean.append(word)
         else:
             # Korean word
             korean.append(word)
+    try:
+        result = " ".join(korean)
+    except:
+        pass
 
-    return " ".join(korean)
+    return result
 
 def main():
     dic = make_dic()
