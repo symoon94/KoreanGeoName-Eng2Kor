@@ -57,9 +57,12 @@ def match(word, dic):
 
 def main():
     dic = make_dic()
-    word = "Gimhae"
+    word = input("Enter any words: \n")
     result = match(word, dic)
-    print(f"{word} --> {result}")
+    if result:
+        print(f"{word} --> {result}")
+    else:
+        print(f'Your word "{word}" did not match any Korean words')
 
 
 if __name__ == "__main__":
