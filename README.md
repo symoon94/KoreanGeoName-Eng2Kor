@@ -1,7 +1,6 @@
 # KoreanGeoName-Eng2Kor
 
-Korean Geographical Names in English to Korean.
-Referred to https://webdew.tistory.com/17 for
+I translated English Korean Geographical Names in Korean, referring to https://webdew.tistory.com/17 for
 [dictionary.csv](https://github.com/symoon94/KoreanGeoName-Eng2Kor/blob/master/dictionary.csv).
 
 ## Usage
